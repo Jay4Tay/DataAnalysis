@@ -1,5 +1,5 @@
 # DataAnalysis
-One notebook submitted 3 times ---
+
 
 Assignment #1 Ends at line 15 ----
 
